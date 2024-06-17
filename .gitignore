@@ -1,6 +1,7 @@
 # Project data
 writingPrompts
 *.pt
+artifacts
 
 # Files
 *.csv

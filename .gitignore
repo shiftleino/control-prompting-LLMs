@@ -1,7 +1,8 @@
 # Project data
 writingPrompts
 *.pt
-artifacts
+artifacts/data
+artifacts/model
 
 # Files
 *.csv
